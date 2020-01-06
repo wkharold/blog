@@ -1,7 +1,6 @@
 ---
 title: "Cron as a filesystem"
 date: 2019-12-21T21:29:11-06:00
-draft: true
 ---
 
 ### 9p
